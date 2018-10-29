@@ -1,0 +1,5 @@
+Do stuff#
+Do more
+replace that
+<executable>C:\Program Files\Java\jdk1.8.0_191\jrein\java.exe</executable>
+well done
