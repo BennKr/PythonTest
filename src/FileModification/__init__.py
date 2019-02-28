@@ -6,6 +6,9 @@ servers = ["", ""]
 
 def printStuff():
     print("doIT")
+    
+def calc2Values(a, b):
+    return a+b;
 
 def connectRemoteShare(server, username,password):
     import win32api
