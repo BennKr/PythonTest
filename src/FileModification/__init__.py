@@ -4,6 +4,8 @@ s= os.getenv("JAVA_HOME")
 print(s)
 servers = ["", ""]
 
+def printStuff():
+    print("doIT")
 
 def connectRemoteShare(server, username,password):
     import win32api
